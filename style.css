@@ -1,3 +1,29 @@
-h1 {
-  color: red;
-}
+#img-div {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  #tribute-info {
+    margin-top: 20px;
+  }
+  
+  #tribute-link {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+  }
