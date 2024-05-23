@@ -28,7 +28,10 @@ body {
   margin-top: 30px;
 }
 
-label, input, select, textarea {
+label, 
+input, 
+select, 
+textarea {
   display: block;
   margin-bottom: 10px;
 }
