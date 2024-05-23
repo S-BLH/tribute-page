@@ -28,15 +28,17 @@ body {
   margin-top: 30px;
 }
 
-label, 
-input, 
-select, 
+label,
+input,
+select,
 textarea {
   display: block;
   margin-bottom: 10px;
 }
 
-input, select, textarea {
+input, 
+select,
+textarea {
   width: 100%;
   padding: 8px;
   border: 1px solid #ccc;
