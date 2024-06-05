@@ -8,8 +8,7 @@
 
 ## Demo 📸
 
-
-![Demo]: C:\Users\Black Store\Desktop\Screenshot 2024-06-04 092148.png
+![Demo]: https://s-blh.github.io/tribute-page/
 
 ## Technologies Used 🛠️
 
